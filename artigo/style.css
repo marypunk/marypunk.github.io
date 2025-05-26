@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+footer {
+    margin-top: 300px;
+    text-align: center;
+    background-color: rgb(193, 188, 188);
+    height: 20px;
+}
+h3 {
+    font-size: 20px;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto;
+}
